@@ -1,0 +1,455 @@
+body{
+    background-color: lightgray;
+}
+
+.heading {
+    text-align: center;
+    color: red;
+}
+
+
+.A {
+    background-color: purple;
+    border: 1px;
+    width: 50%;
+    height: 500px;
+}
+
+.B {
+    background-color: white;
+    border: 1px;
+    width: 49%;
+    height: 490px;
+    margin-left: 340px;
+    margin-top: -496px;
+}
+
+.ID{
+    width: 675px;
+    height: 30px;
+    margin-left: 332px;
+    margin-top: -495px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.name{
+    width: 300px;
+}
+
+.Quantity{
+    width: 75px;
+}
+
+.iphone{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color:lightgray;
+}
+
+.X{
+    width: 310px;
+}
+
+.H:hover{
+    font-size: larger;
+    color: white;
+    tab-size: 200px;
+}
+
+.iphone:hover{
+    background-color: yellowgreen;
+}
+
+.S8{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: white;
+}
+
+.S81{
+    width: 310px;
+}
+
+.sumsung:hover{
+    font-size: larger;
+    color: white;
+}
+
+.S8:hover{
+    background-color: royalblue;
+
+}
+
+.vivos1{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.s2{
+    width: 310px;
+}
+
+.s11:hover{
+    font-size: larger;
+    color: white;
+}
+
+.vivos1:hover{
+    background-color: yellowgreen;
+}
+
+.T9{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: white;
+}
+
+.T91{
+    width: 310px;
+}
+
+.t9:hover{
+    font-size: larger;
+    color: white;
+}
+
+.T9:hover{
+    background-color: royalblue;
+}
+
+.Mate10{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.Mate101{
+    width: 310px;
+}
+
+.Mata100:hover{
+    font-size: larger;
+    color: white;
+}
+
+.Mate10:hover{
+    background-color: yellowgreen;
+}
+.LG{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: white;
+}
+
+.LG1{
+    width: 310px;
+}
+
+.LG:hover{
+    font-size: larger;
+    color: white;
+}
+
+.LG:hover{
+    background-color: royalblue;
+}
+
+.Max{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.Max1{
+    width: 310px;
+}
+
+.Max10:hover{
+    font-size: larger;
+    color: white;
+}
+
+.Max:hover{
+    background-color: yellowgreen;
+}
+
+.pro{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: white;
+}
+
+.pro1{
+    width: 310px;
+}
+
+.pro2:hover{
+    font-size: larger;
+    color: white;
+}
+
+.pro:hover{
+    background-color: royalblue;
+}
+
+.note{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.note1{
+    width: 310px;
+}
+
+.note2:hover{
+    font-size: larger;
+    color: white;
+}
+
+.note:hover{
+    background-color: yellowgreen;
+}
+
+.iphone14{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: white;
+}
+
+.iphone141{
+    width: 310px;
+}
+
+.ipA:hover{
+    font-size: larger;
+    color: white;
+}
+
+.iphone14:hover{
+    background-color: royalblue;
+}
+
+.iphone12{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.iphone121{
+    width: 310px;
+}
+
+.ipB:hover{
+    font-size: larger;
+    color: white;
+}
+
+.iphone12:hover{
+    background-color: yellowgreen;
+}
+
+.iphoneXe{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: white;
+}
+
+.iphoneXe1{
+    width: 310px;
+}
+
+.ipX:hover{
+    font-size: larger;
+    color: white;
+}
+
+.iphoneXe:hover{
+    background-color: royalblue;
+}
+
+.Nokia{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.Nokia1{
+    width: 310px;
+}
+
+.NX:hover{
+    font-size: larger;
+    color: white;
+}
+.Nokia:hover{
+    background-color: yellowgreen;
+}
+
+.readmi{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: white;
+}
+
+.readmi1{
+    width: 310px;
+}
+
+.R9T:hover{
+    font-size: larger;
+    color: white;
+}
+
+.readmi:hover{
+    background-color: royalblue;
+}
+
+.realmi{
+    width: 662px;
+    height: 30px;
+    margin-left: 340px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.realmi1{
+    width: 310px;
+}
+
+.rea3:hover{
+    font-size: larger;
+    color: white;
+}
+
+.realmi:hover{
+    background-color: greenyellow;
+}
+
+
+
+
+.Ass1{
+    color: red;
+    text-align: center;
+}
+
+.T1 table{
+    background-color: black;
+
+}
+
+.HA{
+    color: white;
+    margin-left: 600px;
+    margin-top: -470px;
+}
+
+.img1 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 395px;
+    margin-top: -10px;
+    opacity: 40%;
+}
+
+.images1 img:hover{
+    opacity: 100%;
+    width: 200px;
+    height: 130px;
+}
+
+.img2 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 2px;
+    margin-top: -10px;
+    opacity: 40%;
+}
+
+.img3 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 2px;
+    margin-top: -10px;
+    opacity: 40%;
+}
+
+.img4 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 395px;
+    margin-top: -4px;
+    opacity: 40%;
+}
+
+.img5 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 2px;
+    margin-top: -4px;
+    opacity: 40%;
+}
+
+.img6 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 2px;
+    margin-top: -4px;
+    opacity: 40%;
+}
+
+.img7 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 395px;
+    margin-top: -4px;
+    opacity: 40%;
+}
+
+.img8 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 2px;
+    margin-top: -4px;
+    opacity: 40%;
+}
+
+.img9 img{
+    width: 180px;
+    height: 110px;
+    margin-left: 2px;
+    margin-top: -4px;
+    opacity: 40%;
+}
